@@ -1,0 +1,19 @@
+[{
+    date: "",
+    emotions: [
+    {
+      "activitesSelected": [
+        "Écouter attentivement un cours",
+      ],
+      "intensite": 3,
+      "name": "plaisir",
+    },
+    {
+      "activitesSelected": [
+        "Écouter attentivement un cours",
+      ],
+      "intensite": 2,
+      "name": "espoir",
+    }
+    ]
+}]
